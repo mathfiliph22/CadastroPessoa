@@ -1,0 +1,15 @@
+C:\Users\Home_AeC.VPN_ORI_\Desktop\CadastroPessoa\bin\Debug\net6.0\CadastroPessoa.exe
+C:\Users\Home_AeC.VPN_ORI_\Desktop\CadastroPessoa\bin\Debug\net6.0\CadastroPessoa.deps.json
+C:\Users\Home_AeC.VPN_ORI_\Desktop\CadastroPessoa\bin\Debug\net6.0\CadastroPessoa.runtimeconfig.json
+C:\Users\Home_AeC.VPN_ORI_\Desktop\CadastroPessoa\bin\Debug\net6.0\CadastroPessoa.dll
+C:\Users\Home_AeC.VPN_ORI_\Desktop\CadastroPessoa\bin\Debug\net6.0\CadastroPessoa.pdb
+C:\Users\Home_AeC.VPN_ORI_\Desktop\CadastroPessoa\obj\Debug\net6.0\CadastroPessoa.csproj.AssemblyReference.cache
+C:\Users\Home_AeC.VPN_ORI_\Desktop\CadastroPessoa\obj\Debug\net6.0\CadastroPessoa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home_AeC.VPN_ORI_\Desktop\CadastroPessoa\obj\Debug\net6.0\CadastroPessoa.AssemblyInfoInputs.cache
+C:\Users\Home_AeC.VPN_ORI_\Desktop\CadastroPessoa\obj\Debug\net6.0\CadastroPessoa.AssemblyInfo.cs
+C:\Users\Home_AeC.VPN_ORI_\Desktop\CadastroPessoa\obj\Debug\net6.0\CadastroPessoa.csproj.CoreCompileInputs.cache
+C:\Users\Home_AeC.VPN_ORI_\Desktop\CadastroPessoa\obj\Debug\net6.0\CadastroPessoa.dll
+C:\Users\Home_AeC.VPN_ORI_\Desktop\CadastroPessoa\obj\Debug\net6.0\refint\CadastroPessoa.dll
+C:\Users\Home_AeC.VPN_ORI_\Desktop\CadastroPessoa\obj\Debug\net6.0\CadastroPessoa.pdb
+C:\Users\Home_AeC.VPN_ORI_\Desktop\CadastroPessoa\obj\Debug\net6.0\CadastroPessoa.genruntimeconfig.cache
+C:\Users\Home_AeC.VPN_ORI_\Desktop\CadastroPessoa\obj\Debug\net6.0\ref\CadastroPessoa.dll
