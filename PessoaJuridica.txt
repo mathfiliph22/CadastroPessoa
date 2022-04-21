@@ -1,0 +1,7 @@
+Nome: Pessoa jurifica
+            Razão Social: Razão Social Pj LTDA
+            Endereço: Alameda Barão de Limeira, 539
+            Instituição: 
+            Rendimento: R$ 20.000,50
+            CNPJ: 15.343.656/0001-23
+            CNPJ válido: Verdadeiro
