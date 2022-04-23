@@ -7,7 +7,7 @@ namespace CadastroPessoa.Classes
 
         public string ?cpf { get; set; }
 
-        public DateTime dataNascimento { get; set; }
+        public DateTime ?dataNascimento { get; set; }
 
         
         
@@ -15,9 +15,37 @@ namespace CadastroPessoa.Classes
         
         
 
-        public bool ValidarDataNascimento(DateTime dataNasc)
+  
+        
+        public bool ValidarDataNascimento(string dataNasc)
         {
-            throw new NotImplementedException();
+            DateTime dataConvertida;
+            if (DateTime.tryParse(dataNasc, out dataConvertida))
+            {
+                
+                Console.WriteLine($"{dataConvertida}");
+
+                DateTime dataAtual = DateTime.Today;
+
+                double anos = (dataAtual - dataNasc).totalDays / 365;
+
+                if (anos >= 18)
+                {
+                    return true;
+                }
+            
+                   return false;
+        
+            }
+
+
+
+
+
+
+
+            
+
         }
 
         public override float PagarImposto(float rendimento){
