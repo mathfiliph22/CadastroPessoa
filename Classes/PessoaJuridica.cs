@@ -27,10 +27,12 @@ namespace CadastroPessoa.Classes
                 if (cnpj.Length == 18) 
                 {
                     if (cnpj.Substring(11, 4) == "0001") 
+
                     {
+                        return true;
 
                     }
-                    return true;
+                    
 
                 }
                 else if (cnpj.Length == 14) 
