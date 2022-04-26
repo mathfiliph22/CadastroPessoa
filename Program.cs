@@ -2,6 +2,8 @@
 //Console.WriteLine("Hello, World!");
 using CadastroPessoa.Classes;
 
+
+
 PessoaFisica novaPf = new PessoaFisica();
 Endereco novoEnd = new Endereco();
 
@@ -23,6 +25,11 @@ Console.WriteLine(@$"
 Nome: {novaPf.Nome} 
 Endereco: {novaPf.Endereco.Logradouro}, {novaPf.Endereco.Numero}
 Maior de Idade: {metodoPf.ValidarDataNascimento(novaPf.dataNascimento)}");
+
+
+PessoaJuridica metodoPj = new PessoaJuridica();
+
+Console.WriteLine($"{metodoPj.ValidarCnpj("00.000.000/0001-00")}");
 
 
 
