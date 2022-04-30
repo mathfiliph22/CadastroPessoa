@@ -2,7 +2,7 @@ using CadastroPessoa.Interfaces;
 
 namespace CadastroPessoa.Classes
 {
-    public class PessoaFisica : Pessoa , IPessoaFisica
+    public class PessoaFisica :Pessoa , IPessoaFisica 
     {
 
         public string ?cpf { get; set; }
