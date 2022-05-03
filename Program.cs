@@ -46,8 +46,11 @@ do
             Console.WriteLine(@$"
             Nome: {novaPf.Nome} 
             Endereco: {novaPf.Endereco.Logradouro}, {novaPf.Endereco.Numero}
-            Maior de Idade: {metodoPf.ValidarDataNascimento(novaPf.dataNascimento)}");
-            
+            Maior de Idade: {(metodoPf.ValidarDataNascimento(novaPf.dataNascimento)
+            ? "Sim" : "Não")}
+            Taxa de Imposto a ser paga é: {metodoPf.PagarImposto(novaPf.rendimento).toString("C")}");
+
+     
 
 
             Console.WriteLine($"Aperte 'Enter' ");
