@@ -29,7 +29,7 @@ namespace CadastroPessoa.Classes
 
                 double anos = (dataAtual - dataNasc).totalDays / 365;
 
-                if (anos >= 18)
+                if (anos >= 18 && anos < 100)
                 {
                     return true;
                 }
